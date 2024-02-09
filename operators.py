@@ -7,3 +7,4 @@ sum=int(Maths+English+Chem+Phy+Bio)
 print(f"Total score is {sum}")
 print(f"Average score is {sum/3} ")
 
+
